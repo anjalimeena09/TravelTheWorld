@@ -1,2 +1,2 @@
-# project1
+# TravelTheWorld
 I developed this website using HTML and CSS.
